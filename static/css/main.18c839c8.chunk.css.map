@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,YACF,CAEA,MAEE,eAAgB,CAChB,QAAS,CACT,SACF,CAEA,SACE,eACF","file":"main.18c839c8.chunk.css","sourcesContent":["body {\n  height: 100vh;\n}\n\nul,\nli {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n\n.btn-box {\n  max-width: 250px;\n}\n"]}
